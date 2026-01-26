@@ -4,7 +4,7 @@ Hi, I’m Taziri
 </h1>
 
 <p align="center">
-Software Engineering student · Data & AI
+Software Engineering student , passionate about Data & AI
 </p>
 
 ---
