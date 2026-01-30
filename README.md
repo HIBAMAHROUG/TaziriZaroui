@@ -22,6 +22,7 @@ Alongside hands-on projects, I actively follow and create **structured technical
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TaziriZaroui&label=Profile%20views&color=ff6f00&style=flat" />
 </p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TaziriZaroui&theme=dark&show_icons=true" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TaziriZaroui&theme=github-compact&bg_color=0d1117&color=ff6f00&line=ff6f00&point=ffffff&hide_border=true)
 
