@@ -4,10 +4,12 @@ Hi, I’m Taziri
 </h1>
 
 <p align="center">
-Software Engineering student , passionate about Data & AI
+Software Engineering student, passionate about Data & AI
 </p>
 
-## Profile
+---
+
+## 📝 Profile
 
 Second-year Software Engineering student with a current specialization in **Data Engineering** and **Artificial Intelligence**.  
 I focus on building **data-centric projects**, applying solid software engineering principles to data processing, analysis, and early-stage AI systems.
@@ -16,50 +18,47 @@ Alongside hands-on projects, I actively follow and create **structured technical
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TaziriZaroui&theme=dark&show_icons=true&count_private=true" />
+  ![GitHub Contribution Chart](https://ghchart.rshah.org/TaziriZaroui)
 </p>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TaziriZaroui&layout=compact&theme=dark&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=TaziriZaroui&theme=dark&show_icons=true" />
 </p>
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TaziriZaroui&theme=github-compact&bg_color=0d1117&color=ff6f00&line=ff6f00&point=ffffff&hide_border=true)
-</p>
-
-## Current Focus
+## 🎯 Current Focus
 
 - Data Engineering fundamentals  
 - Python & SQL for data analysis  
+- AI concepts and early experimentation  
 
+---
 
+## 💻 Tech Stack
 
-## Tech Stack
+### Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
 
-**Languages**
+### Data Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
+---
 
--![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 📊 Data Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
-
-
-
-## Projects
+## 🚀 Projects
 
 - Data analysis and visualization projects  
 - Educational repositories and technical course materials  
@@ -68,19 +67,13 @@ Alongside hands-on projects, I actively follow and create **structured technical
 
 ---
 
-## Learning & Growth
+## 📈 Workflow Diagram
 
-- Continuous learning through hands-on projects  
-- Building and sharing technical courses  
-- Improving code quality, structure, and documentation  
-
----
-
-## Contact
-
-- GitHub: https://github.com/TaziriZaroui
-
-
-<p align="center">
-<b>Focused on building skills, not hype.</b>
-</p>
+```mermaid
+graph TD
+    A[GitHub Repo] --> B[Main Branch]
+    B --> C[Feature Branches]
+    B --> D[Bugfix Branches]
+    C --> E[Pull Requests]
+    D --> E
+    E --> F[Merge into Main]
