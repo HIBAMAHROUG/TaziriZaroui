@@ -16,13 +16,9 @@ Alongside hands-on projects, I actively follow and create **structured technical
 
 ## My github states 
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TaziriZaroui&theme=dark&show_icons=true&count_private=true" />
-
-
-
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TaziriZaroui&layout=compact&theme=dark&hide_border=true)
-
-
+<p align="center">
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TaziriZaroui&theme=github-compact&bg_color=0d1117&color=ff6f00&line=ff6f00&point=ffffff&hide_border=true)
+</p>
 
 
 
