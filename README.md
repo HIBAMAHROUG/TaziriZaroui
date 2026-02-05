@@ -7,8 +7,6 @@ Hi, I’m Taziri
 Software Engineering student , passionate about Data & AI
 </p>
 
----
-
 ## Profile
 
 Second-year Software Engineering student with a current specialization in **Data Engineering** and **Artificial Intelligence**.  
@@ -16,13 +14,8 @@ I focus on building **data-centric projects**, applying solid software engineeri
 
 Alongside hands-on projects, I actively follow and create **structured technical courses** to strengthen my foundations in data systems, analytics workflows, and modern development practices.
 
----
 ## My github states 
-<img src="https://github-readme-stats.vercel.app/api?username=TaziriZaroui&theme=dark&show_icons=true&count_private=true" />
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaziriZaroui&layout=compact&theme=dark&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHROUGHIBA&layout=compact&theme=dark&hide_border=true)
 
 
 
@@ -33,7 +26,7 @@ Alongside hands-on projects, I actively follow and create **structured technical
 - Data Engineering fundamentals  
 - Python & SQL for data analysis  
 
----
+
 
 ## Tech Stack
 
