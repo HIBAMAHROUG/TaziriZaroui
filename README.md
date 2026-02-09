@@ -8,7 +8,6 @@ Software Engineering student, passionate about Data & AI
 </p>
 
 ---
-
 ## Profile
 
 Second-year Software Engineering student specializing in **Data Engineering** and **Artificial Intelligence**.  
