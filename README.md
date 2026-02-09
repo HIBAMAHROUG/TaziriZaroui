@@ -58,7 +58,6 @@ Alongside projects, I create and follow **structured technical courses** to stre
 
 ---
 
-
 ##  Contact
 
 - GitHub: [https://github.com/TaziriZaroui](https://github.com/TaziriZaroui)
