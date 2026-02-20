@@ -8,26 +8,6 @@ Software Engineering student, passionate about Data & AI
 </p>
 
 ---
-## Profile
-
-Second-year Software Engineering student specializing in **Data Engineering** and **Artificial Intelligence**.  
-I focus on building **data-centric projects**, applying software engineering principles to data processing, analysis, and AI pipelines.
-
-Alongside projects, I create and follow **structured technical courses** to strengthen my foundations in data systems, analytics workflows, and modern development practices.
-
----
-
-##  GitHub Stats
-
-![GitHub Contribution Chart](https://ghchart.rshah.org/HIBAMAHROUG)
-
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=HIBAMAHROUG&theme=react-dark&hide_border=true)
-
-
----
-
-##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
